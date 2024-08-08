@@ -1,0 +1,3 @@
+admin@example.com:admin-uuid:Admin
+example1@gmail.com:85e3e51a-8eec-4d17-96f8-b1fd60bde7a4:Patient
+example1@gmail.com:1f315fac-a31e-4469-95dc-c2cd6846e0af:Patient
